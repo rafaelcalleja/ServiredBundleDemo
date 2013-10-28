@@ -1,0 +1,15 @@
+{% extends "AcmeDemoBundle::layout.html.twig" %}
+
+{% block title "Symfony - Product form" %}
+
+{% block content %}
+    <form action="{{ path('_demo_product') }}" method="POST" id="product_form">
+        {{ form_errors(form) }}
+
+        {{ form_row(form.name) }}
+        {{ form_row(form.price) }}
+
+        {{ form_rest(form) }}
+        <input type="submit" value="Buy" class="symfony-button-grey" />
+    </form>
+{% endblock %}

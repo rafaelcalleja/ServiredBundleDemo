@@ -1,0 +1,13 @@
+{% extends "AcmeDemoBundle::layout.html.twig" %}
+
+{% block title "ServiredBundle - Demos" %}
+
+{% block content_header '' %}
+
+{% block content %}
+    <h1 class="title">Available demos</h1>
+    <ul id="demo-list">
+        <li><a href="{{ path('_demo_product') }}">Comprar Producto</a></li>
+        <li><a href="{{ path('_demo_retrypayment') }}">Reintentar pago ( la primera compra no debe completarse correctamente para que funcione )</a></li>
+    </ul>
+{% endblock %}
