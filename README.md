@@ -5,7 +5,7 @@ Demo Instalable de la pasarela de pago Servired
 
 ###  ScreenShots
 
- 1.  [Step 1](hhttps://raw.github.com/rafaelcalleja/ServiredBundleDemo/master/app/Resources/docs/step1.png)
+ 1.  [Step 1](https://raw.github.com/rafaelcalleja/ServiredBundleDemo/master/app/Resources/docs/step1.png)
  2.  [Step 2](https://raw.github.com/rafaelcalleja/ServiredBundleDemo/master/app/Resources/docs/step2.png)
  3.  [Step 3](https://raw.github.com/rafaelcalleja/ServiredBundleDemo/master/app/Resources/docs/step3.png)
  4.  [Step 4](https://raw.github.com/rafaelcalleja/ServiredBundleDemo/master/app/Resources/docs/step4.png)
