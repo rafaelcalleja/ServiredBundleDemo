@@ -57,7 +57,7 @@ y añadir la línea siguiente:
 
 Configuramos un VirtualHost para el nuevo dominio
 
-	$ sudo vi /etc/apache2/sites-enabled/demo.serviredbundle.com
+	$ sudo vi /etc/apache2/sites-available/demo.serviredbundle.com
 
 con el siguiente contenido:
 
