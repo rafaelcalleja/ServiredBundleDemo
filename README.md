@@ -31,7 +31,7 @@ Demo Instalable de la pasarela de pago Servired
        $ cd /var/www/vhosts/demo.serviredbundle.com/httpdocs/
        $ git clone git@github.com:rafaelcalleja/ServiredBundleDemo.git .
        
-### Configurar la base de datos app/config/parameters.ini
+### Configurar la base de datos app/config/parameters.yml
 
        database_driver: pdo_mysql
        database_host: 127.0.0.1
