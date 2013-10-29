@@ -3,11 +3,16 @@ ServiredBundleDemo
 
 Demo Instalable de la pasarela de pago Servired 
 
-######  Documentación:
+######  Enlaces de interes ( require instalación ):
 
  1.  [Home Demo](http://demo.serviredbundle.com/demo/)
  2.  [Comprar producto](http://demo.serviredbundle.com/demo/product)
  3.  [Reintentar pago](http://demo.serviredbundle.com/demo/retrypayment)
+ 4.  [Tarjetas de credito de prueba](https://github.com/rafaelcalleja/ServiredBundle/blob/master/Resources/doc/test_credit_card.rst)
+ 5.  [Configuracion ejemplo](https://github.com/rafaelcalleja/ServiredBundle/blob/master/Resources/doc/config.dist.yml)
+ 6.  [Ejemplo Controllers](https://github.com/rafaelcalleja/ServiredBundleDemo/blob/master/src/Acme/DemoBundle/Controller/DemoController.php)
+ 7.  [Ejemplo Entidad Transaccion](https://github.com/rafaelcalleja/ServiredBundleDemo/blob/master/src/Acme/DemoBundle/Entity/Sale.php)
+ 
 
 1) Instalación
 --------------------------------
